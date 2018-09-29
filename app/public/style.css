@@ -1,0 +1,34 @@
+body{
+    background-image: url(http://img4.uploadhouse.com/fileuploads/17188/17188429471718b579ed17930cafc2dd1ac32f39.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: rgb(99, 98, 98);
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+#submit {
+    background: rgb(26, 25, 25);
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: rgb(218, 209, 209);
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: rgb(29, 28, 28);
+}
